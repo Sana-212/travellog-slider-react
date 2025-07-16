@@ -13,6 +13,7 @@ This is a simple, elegant image slider built using **React**, designed for a tra
 
 ### Project Structure
 
+```plaintext
 src/
 ├── App.js                 # Main component with slider logic
 ├── App.css               # Styling for the slider & layout
@@ -21,7 +22,7 @@ src/
 │   └── Sidebar.jsx       # Sidebar component
 ├── Icons.jsx             # Custom SVG icons for arrows, hamburger, etc.
 ├── travelData.js         # Static travel data (images, text)
-
+```
 
 ### Getting Started
 
